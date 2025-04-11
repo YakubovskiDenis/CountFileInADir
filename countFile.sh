@@ -6,6 +6,7 @@ strings=("/opt/BooruParser/GI"
 "/opt/BooruParser/Arknights"
 "/opt/BooruParser/GFL"
 )
+#any strings you want
 
 for i in "${strings[@]}"; do
 	echo $i
